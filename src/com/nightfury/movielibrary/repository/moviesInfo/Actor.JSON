@@ -1,0 +1,182 @@
+[
+    {
+      "ID": 1,
+      "firstname": "Роберт",
+      "lastname": "Дауні-молодший",
+      "birthday": "1965-04-04",
+      "country": "США",
+      "filmographyID": [1 , 5, 10],
+      "filmography": null
+    },
+    {
+      "ID": 2,
+      "firstname": "Джуд",
+      "lastname": "Лоу",
+      "birthday": "1972-12-29",
+      "country": "Велика Британія",
+      "filmographyID": [1],
+      "filmography": null
+    },
+    {
+      "ID": 3,
+      "firstname": "Джессі",
+      "lastname": "Айзенберг",
+      "birthday": "1983-10-05",
+      "country": "США",
+      "filmographyID": [2],
+      "filmography": null
+    },
+    {
+      "ID": 4,
+      "firstname": "Ендрю",
+      "lastname": "Гарфілд",
+      "birthday": "1983-08-20",
+      "country": "США",
+      "filmographyID": [2],
+      "filmography": null
+    },
+    {
+      "ID": 5,
+      "firstname": "Меттью",
+      "lastname": "МакКонахі",
+      "birthday": "1969-11-04",
+      "country": "США",
+      "filmographyID": [3],
+      "filmography": null
+    },
+    {
+      "ID": 6,
+      "firstname": "Енн",
+      "lastname": "Гетевей",
+      "birthday": "1982-11-12",
+      "country": "США",
+      "filmographyID": [3],
+      "filmography": null
+    },
+  {
+    "ID": 7,
+    "firstname": "Райан",
+    "lastname": "Гослінг",
+    "birthday": "1980-11-12",
+    "country": "Канада",
+    "filmographyID": [4],
+    "filmography": null
+  },
+  {
+    "ID": 8,
+    "firstname": "Емма",
+    "lastname": "Стоун",
+    "birthday": "1988-11-06",
+    "country": "США",
+    "filmographyID": [4],
+    "filmography": null
+  },
+  {
+    "ID": 9,
+    "firstname": "Хоакін",
+    "lastname": "Фенікс",
+    "birthday": "1974-10-28",
+    "country": "США",
+    "filmographyID": [5],
+    "filmography": null
+  },
+  {
+    "ID": 10,
+    "firstname": "Роберт",
+    "lastname": "Де Ніро",
+    "birthday": "1943-08-17",
+    "country": "США",
+    "filmographyID": [5],
+    "filmography": null
+  },
+  {
+    "ID": 11,
+    "firstname": "Тім",
+    "lastname": "Роббінс",
+    "birthday": "1958-10-16",
+    "country": "США",
+    "filmographyID": [6],
+    "filmography": null
+  },
+  {
+    "ID": 12,
+    "firstname": "Морган",
+    "lastname": "Фріман",
+    "birthday": "1937-06-01",
+    "country": "США",
+    "filmographyID": [6],
+    "filmography": null
+  },
+  {
+    "ID": 13,
+    "firstname": "Марк",
+    "lastname": "Гемілл",
+    "birthday": "1951-09-25",
+    "country": "США",
+    "filmographyID": [7],
+    "filmography": null
+  },
+  {
+    "ID": 14,
+    "firstname": "Гаррісон",
+    "lastname": "Форд",
+    "birthday": "1942-07-13",
+    "country": "США",
+    "filmographyID": [7],
+    "filmography": null
+  },
+  {
+    "ID": 15,
+    "firstname": "Майкл Дж.",
+    "lastname": "Фокс",
+    "birthday": "1961-06-09",
+    "country": "Канада",
+    "filmographyID": [8],
+    "filmography": null
+  },
+  {
+    "ID": 16,
+    "firstname": "Крістофер",
+    "lastname": "Ллойд",
+    "birthday": "1938-10-22",
+    "country": "США",
+    "filmographyID": [8],
+    "filmography": null
+  },
+  {
+    "ID": 17,
+    "firstname": "Елайджа",
+    "lastname": "Вуд",
+    "birthday": "1981-01-28",
+    "country": "США",
+    "filmographyID": [9],
+    "filmography": null
+  },
+  {
+    "ID": 18,
+    "firstname": "Іен",
+    "lastname": "МакКеллен",
+    "birthday": "1939-05-25",
+    "country": "Велика Британія",
+    "filmographyID": [9],
+    "filmography": null
+  },
+  {
+    "ID": 19,
+    "firstname": "Джо",
+    "lastname": "Руссо",
+    "birthday": "1971-07-08",
+    "country": "США",
+    "filmographyID": [10],
+    "filmography": null
+  },
+  {
+    "ID": 20,
+    "firstname": "Ентоні",
+    "lastname": "Руссо",
+    "birthday": "1970-02-03",
+    "country": "США",
+    "filmographyID": [10],
+    "filmography": null
+  }
+]

@@ -1,0 +1,24 @@
+[ {
+  "id" : 219,
+  "password" : "Ruslan123123",
+  "birthday" : "2004-12-12",
+  "email" : "Ruslan123@gmail.com",
+  "username" : "Ruslan123",
+  "role" : "ADMIN",
+  "movielibraryID" : 2,
+  "movielibrary" : {
+    "id" : 2,
+    "title" : "far",
+    "favoritefilmsID" : [ 3 ],
+    "userID" : 219
+  }
+}, {
+  "id" : 850,
+  "password" : "Denus123123",
+  "birthday" : "2000-12-12",
+  "email" : "Denus123@gmail.com",
+  "username" : "Denus123",
+  "role" : "ADMIN",
+  "movielibraryID" : 0,
+  "movielibrary" : null
+} ]

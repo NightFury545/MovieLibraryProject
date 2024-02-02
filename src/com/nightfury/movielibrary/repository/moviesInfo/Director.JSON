@@ -1,0 +1,94 @@
+[
+  {
+    "ID": 1,
+    "firstname": "Гай",
+    "lastname": "Річі",
+    "birthday": "1968-01-01",
+    "country": "Велика Британія",
+    "filmographyID": [1, 5, 10],
+    "filmography": null
+  },
+  {
+    "ID": 2,
+    "firstname": "Девід",
+    "lastname": "Фінчер",
+    "birthday": "1962-08-08",
+    "country": "США",
+    "filmographyID": [2],
+    "filmography": null
+  },
+  {
+    "ID": 3,
+    "firstname": "Крістофер",
+    "lastname": "Нолан",
+    "birthday": "1970-07-30",
+    "country": "Велика Британія",
+    "filmographyID": [3],
+    "filmography": null
+  },
+  {
+    "ID": 4,
+    "firstname": "Дем’єн",
+    "lastname": "Шазелл",
+    "birthday": "1980-01-19",
+    "country": "США",
+    "filmographyID": [4],
+    "filmography": null
+  },
+  {
+    "ID": 5,
+    "firstname": "Тодд",
+    "lastname": "Філліпс",
+    "birthday": "1970-12-20",
+    "country": "США",
+    "filmographyID": [5],
+    "filmography": null
+  },
+  {
+    "ID": 6,
+    "firstname": "Френк",
+    "lastname": "Дарабонт",
+    "birthday": "1959-01-28",
+    "country": "США",
+    "filmographyID": [6],
+    "filmography": null
+  },
+  {
+    "ID": 7,
+    "firstname": "Ірвін",
+    "lastname": "Кершнер",
+    "birthday": "1923-04-29",
+    "country": "США",
+    "filmographyID": [7],
+    "filmography": null
+  },
+  {
+    "ID": 8,
+    "firstname": "Роберт",
+    "lastname": "Земекіс",
+    "birthday": "1951-05-14",
+    "country": "США",
+    "filmographyID": [8],
+    "filmography": null
+  },
+  {
+    "ID": 9,
+    "firstname": "Пітер",
+    "lastname": "Джексон",
+    "birthday": "1961-10-31",
+    "country": "Нова Зеландія",
+    "filmographyID": [9],
+    "filmography": null
+  },
+  {
+    "ID": 10,
+    "firstname": "Джо і Ентоні",
+    "lastname": "Руссо",
+    "birthday": "1971-03-07",
+    "country": "США",
+    "filmographyID": [10],
+    "filmography": null
+  }
+]
+
+

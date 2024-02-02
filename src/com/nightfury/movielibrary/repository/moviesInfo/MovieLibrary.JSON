@@ -1,0 +1,11 @@
+[ {
+  "id" : 2,
+  "title" : "far",
+  "favoritefilmsID" : [ 3 ],
+  "userID" : 219
+}, {
+  "id" : 674,
+  "title" : "firstLib",
+  "favoritefilmsID" : [ 3 ],
+  "userID" : 850
+} ]

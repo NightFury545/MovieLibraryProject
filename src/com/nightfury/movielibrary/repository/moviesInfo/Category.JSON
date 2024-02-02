@@ -1,0 +1,51 @@
+[
+    {
+      "ID": 1,
+      "name": "Action",
+      "filmscollectionID": [1, 5, 10],
+      "filmscollection": null
+    },
+    {
+      "ID": 2,
+      "name": "Драма",
+      "filmscollectionID": [2, 4, 6],
+      "filmscollection": null
+    },
+    {
+      "ID": 3,
+      "name": "Наукова фантастика",
+      "filmscollectionID": [3, 7, 8],
+      "filmscollection": null
+    },
+    {
+      "ID": 4,
+      "name": "Мюзикл",
+      "filmscollectionID": [4],
+      "filmscollection": null
+    },
+    {
+      "ID": 5,
+      "name": "Кримінал",
+      "filmscollectionID": [5, 6],
+      "filmscollection": null
+    },
+    {
+      "ID": 6,
+      "name": "Комедія",
+      "filmscollectionID": [8],
+      "filmscollection": null
+    },
+    {
+      "ID": 7,
+      "name": "Епічний фентезі",
+      "filmscollectionID": [9],
+      "filmscollection": null
+    },
+    {
+      "ID": 8,
+      "name": "Екшн",
+      "filmscollectionID": [10],
+      "filmscollection": null
+    }
+]
+
